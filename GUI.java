@@ -29,6 +29,10 @@ public class GUI {
         passText.setBounds(100, 50, 165, 25);
         panel.add(passText);
 
+        JButton button = new JButton("Login");
+        button.setBounds(10, 80, 80, 25);
+        panel.add(button);
+
 
 
 
