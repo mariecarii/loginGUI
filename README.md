@@ -1,5 +1,8 @@
 # loginGUI
 
+<p>
+<img src="loginGUI_screenshot.png" alt="GUI screenshot"/>
+</p>
 
 ## Project Description
 This project's goal was to create a GUI that took in user's password and username. Then, if it matched against the set password and username, it would display login successful.
